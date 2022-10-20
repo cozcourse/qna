@@ -1,2 +1,2 @@
-# qna
-질문게시판
+## qna 방법
+- Discussions - QnA에 작성해주세요!
